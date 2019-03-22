@@ -1,0 +1,425 @@
+body{
+	margin: 0;
+}
+
+}
+header{
+	/* Style for "Layer 1" */
+
+height: 81px;
+background-color: #000000;
+color: #fff
+}
+header img{
+float: left;
+margin-top: 27px;
+/* Style for "Polygon 3" */
+width: 31px;
+height: 26px;
+
+}
+header p{
+	width: 200px;
+	/* Style for "Adverting" */
+height: 32px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 32px;
+font-weight: 400;
+/* Text style for "A, dvertin" */
+margin-top: 17px;
+text-align: center;
+
+}
+header a{
+	/* Style for "About" */
+width: 559px;
+
+color: #ffffff;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+text-decoration: none;
+margin-left: 30px;
+margin-top: 12px;
+}
+header li{
+	display: flex;
+	margin-left: -50px;
+
+}
+.button-header{
+/* Style for "Rectangle" */
+
+border: 2px solid #ffc000;
+border-radius: 30px;
+/* Style for "CALL US" */
+
+color: #ffffff;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 50px;
+text-transform: uppercase;
+/* Text style for "CALL US" */
+letter-spacing: -0.3px;
+
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 37px;
+padding-left: 36px;
+}
+.button-class{
+margin-top: 15px;
+}
+.Adverting{
+	/* Style for "bg" */
+height: 779px;
+background-color: #121212;
+text-align: left;
+
+}
+.Adverting-text{
+	/* Style for "We'll Prom" */
+width: 402px;
+height: 49px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 60px;
+font-weight: 400;
+/* Text style for "W, e'll Pr" */
+letter-spacing: -1.03px;
+padding-top: 80px;
+}
+.Adverting-h1{
+margin-top: 28px;
+width: 554px;
+height: 121px;
+color: #ffc000;
+font-family: 'Indie Flower', cursive;
+letter-spacing: -4.36px;
+font-weight: 400;
+text-transform: uppercase;
+font-size: 170px;
+}
+.Adverting-text2{
+	/* Style for "With a lon" */
+width: 704px;
+height: 112px;
+color: #ffffff;
+font-family: 'Poppins';
+font-size: 24px;
+font-weight: 400;
+line-height: 46px;
+
+margin-top: -40px;
+}
+.About{
+text-align: center;
+height: 1010px;
+background-color: #ffffff;
+background: url(../img/section-2.png)no-repeat  top / cover;
+}
+.img-About{
+	/* Style for "Color Fill" */
+
+height: 500px;
+background-color: #000000;
+margin-top: 69px;
+}
+.About-h1{
+/* Style for "About Us" */
+width: 262px;
+margin-left: 420px;
+height: 46px;
+color: #000000;
+font-family: 'Poppins';
+font-size: 60px;
+font-weight: 700;
+line-height: 46px;
+/* Text style for "About Us" */
+letter-spacing: -3px;
+margin-top: 109px;
+}
+.About-text{
+margin-top: 46px;
+height: 120px;
+color: #666666;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 34px;
+width: 959px;
+margin-left: 70px;
+
+}
+.portfolio1{
+text-align: center;
+height: 510px;
+background-color: #000000;
+}
+.portfolio1-img{
+margin-top: 120px;
+width: 60px;
+height: 60px;
+}
+.portfolio1-text1{
+/* Style for "Decades of" */
+margin-top: 43px;
+height: 68px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 400;
+/* Text style for "Decades of" */
+letter-spacing: -0.75px;
+}
+.portfolio1-text2{
+height: 87px;
+color: #b6b6cd;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-top: 31px;
+}
+.Services{
+
+height: 670px;
+background-color: #ffffff;
+}
+.Services-h1{
+/* Style for "Services W" */
+
+height: 49px;
+color: #000000;
+font-family: Poppins;
+font-size: 60px;
+font-weight: 700;
+line-height: 46px;
+/* Text style for "Services W" */
+letter-spacing: -3px;
+text-align: center;
+margin-top: 100px;
+}
+.Services-p1{
+/* Style for "Over the y" */
+text-align: center;
+height: 54px;
+color: #666666;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 34px;
+margin-top: 44px;
+margin-bottom: 50px;
+}
+.Services-img{
+	float: left;
+	width: 56px;
+	height: 56px;
+	margin-bottom: 70px;
+	margin-top: 3px;
+	margin-right: 30px;
+}
+.Services-p2{
+	/* Style for "Content Ma" */
+height: 27px;
+color: #000000;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 46px;
+/* Text style for "Content Ma" */
+letter-spacing: -0.6px;
+}
+.Services-p3{
+	/* Style for "Creating c" */
+
+color: #aaaaaa;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+}
+.Meet{
+height: 951px;
+background-color: #ffcf3c;
+text-align: center;
+}
+.Meet-h1{
+	/* Style for "Meet the T" */
+
+height: 43px;
+color: #000000;
+font-family: "Myriad Pro";
+font-size: 60px;
+font-weight: 400;
+line-height: 46px;
+/* Text style for "Meet the T" */
+letter-spacing: -3px;
+padding-top: 82px;
+}
+.Meet-p1{
+	/* Style for "Without th" */
+padding-top: 46px;
+height: 51px;
+color: #000000;
+font-family: "Myriad Pro";
+font-size: 18px;
+font-weight: 400;
+line-height: 34px;
+margin-bottom: 70px;
+}
+.Meet1{
+/* Style for "bg" */
+width: 370px;
+height: 500px;
+background-color: #ffffff;
+
+}
+.Meet-p2{
+	margin-top: 50px;
+height: 25px;
+color: #000000;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 46px;
+/* Text style for "Alex Buoye" */
+letter-spacing: -0.6px;
+}
+.Meet-p3{
+margin-top:-22px;
+height: 14px;
+color: #ffc000;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 600;
+line-height: 46px;
+text-transform: uppercase;
+/* Text style for "UI/UX Desi" */
+letter-spacing: 2.4px;
+}
+.Meet-p4{
+	width: 298px;
+height: 63px;
+color: #aaaaaa;
+font-family: Poppins;
+font-size: 13px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 30px;
+margin-top: 30px;
+}
+.Meet-img{
+margin-top: 20px;
+}
+.Email{
+height: 500px;
+background-color: #020202;
+}
+.Email-h1{
+text-align: center;
+height: 65px;
+color: #ffc000;
+font-family: Poppins;
+font-size: 60px;
+font-weight: 400;
+line-height: 46px;
+/* Text style for "Sign Up fo" */
+color: #ffffff;
+letter-spacing: -3px;
+/* Text style for "Email Upda" */
+letter-spacing: -3px;
+margin-top: 106px;
+}
+.Email-p1{
+	/* Style for "Knowing ab" */
+text-align: center;
+height: 52px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 34px;
+margin-top: -30px;
+}
+.Email-h1-1{
+	color: #ffc000;
+}
+footer{
+
+height: 80px;
+background-color: #f5f5f5;
+}
+footer img{
+	float: right;
+	margin-top: -20px;
+}
+footer p{
+	/* Style for "2017 © Adv" */
+width: 260px;
+height: 16px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 300;
+line-height: 26px;
+/* Text style for "2, 017 © ," */
+font-family: "Poppins - Light";
+font-weight: 300;
+/* Text style for "Adverting" */
+font-family: Poppins;
+font-weight: 400;
+padding-top: 25px;
+}
+.Email-button{
+/* Style for "Rectangle" */
+width: 220px;
+height: 60px;
+background-color: #ffc000;
+border-top-right-radius: 30px;
+border-bottom-right-radius: 30px;
+/* Style for "Submit" */
+
+color: #ffffff;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 46px;
+text-transform: uppercase;
+/* Text style for "S, ubmit" */
+letter-spacing: -0.9px;
+float: right;
+}
+.Email-Email{
+	/* Style for "Rectangle" */
+width: 772px;
+height: 60px;
+background-color: #ffffff;
+border-top-left-radius: 30px;
+border-bottom-left-radius: 30px;
+margin-left: 170px;
+border-radius: 30px;
+}
+section input{
+	margin-left: 40px;
+border: none;
+font-family: Poppins;
+color: #aaaaaa;
+margin-top: 15px;
+font-size: 18px;
+
+font-weight: 400;
+}
+.Email-ru{
+	width: 772px;
+}
+
+
+
+
+
+
+
