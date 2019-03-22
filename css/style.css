@@ -2,12 +2,9 @@ body{
 	margin: 0;
 }
 
-}
 header{
-	/* Style for "Layer 1" */
-
 height: 81px;
-background-color: #000000;
+background-color: #000;
 color: #fff
 }
 header img{
@@ -34,7 +31,6 @@ text-align: center;
 header a{
 	/* Style for "About" */
 width: 559px;
-
 color: #ffffff;
 font-family: Poppins;
 font-size: 18px;
@@ -98,7 +94,7 @@ height: 121px;
 color: #ffc000;
 font-family: 'Indie Flower', cursive;
 letter-spacing: -4.36px;
-font-weight: 400;
+font-weight: 700;
 text-transform: uppercase;
 font-size: 170px;
 }
@@ -276,7 +272,7 @@ margin-bottom: 70px;
 width: 370px;
 height: 500px;
 background-color: #ffffff;
-
+border-radius: 10px;
 }
 .Meet-p2{
 	margin-top: 50px;
@@ -358,13 +354,11 @@ footer img{
 	margin-top: -20px;
 }
 footer p{
-	/* Style for "2017 © Adv" */
-width: 260px;
-height: 16px;
+
 color: #000000;
-font-family: Poppins;
+
 font-size: 14px;
-font-weight: 300;
+
 line-height: 26px;
 /* Text style for "2, 017 © ," */
 font-family: "Poppins - Light";
@@ -392,6 +386,7 @@ text-transform: uppercase;
 /* Text style for "S, ubmit" */
 letter-spacing: -0.9px;
 float: right;
+border-color: none for button;
 }
 .Email-Email{
 	/* Style for "Rectangle" */
@@ -416,7 +411,9 @@ font-weight: 400;
 .Email-ru{
 	width: 772px;
 }
-
+.Email-p1{
+	margin-bottom: 65px;
+}
 
 
 
