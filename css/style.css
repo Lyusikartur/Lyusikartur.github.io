@@ -426,7 +426,7 @@ text-transform: uppercase;
 /* Text style for "S, ubmit" */
 letter-spacing: -0.9px;
 float: right;
-border-color: transparent or border:none for button;
+height: 100%;
 
 }
 .Email-Email{
