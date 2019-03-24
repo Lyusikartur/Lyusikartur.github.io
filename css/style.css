@@ -118,10 +118,10 @@ background: url(../img/section-2.png)no-repeat  top / cover;
 }
 .img-About{
 	/* Style for "Color Fill" */
-
-height: 500px;
+min-height: 500px;
 background-color: #000000;
 margin-top: 69px;
+margin-bottom: 100px;
 }
 .About-h1{
 /* Style for "About Us" */
@@ -210,13 +210,49 @@ line-height: 34px;
 margin-top: 44px;
 margin-bottom: 50px;
 }
-.Services-img{
+.Icon{
 	float: left;
-	width: 56px;
-	height: 56px;
-	margin-bottom: 70px;
-	margin-top: 3px;
+	
+	margin-bottom: 80px;
+	margin-top: 15px;
 	margin-right: 30px;
+}
+.Services-img1{
+	/* Style for "Forma 1" */
+width: 56px;
+height: 56px;
+margin-left: 10px;
+}
+.Services-img2{
+	/* Style for "Forma 1" */
+width: 60px;
+height: 54px;
+margin-left: 7px;
+}
+.Services-img3{
+	/* Style for "Forma 1" */
+width: 60px;
+height: 51px;	
+margin-left: 8px;
+}
+.Services-img4{
+	/* Style for "Forma 1" */
+width: 36px;
+height: 60px;
+margin-left: 30px;
+}
+.Services-img5{
+	
+	/* Style for "Forma 1" */
+width: 55px;
+height: 53px;
+margin-left: 13px;
+}
+.Services-img6{
+/* Style for "Forma 1" */
+width: 46px;
+height: 60px;	
+margin-left: 20px;
 }
 .Services-p2{
 	/* Style for "Content Ma" */
@@ -234,7 +270,7 @@ letter-spacing: -0.6px;
 
 color: #aaaaaa;
 font-family: Poppins;
-font-size: 14px;
+font-size: 13px;
 font-weight: 400;
 line-height: 24px;
 }
@@ -266,6 +302,10 @@ font-size: 18px;
 font-weight: 400;
 line-height: 34px;
 margin-bottom: 70px;
+}
+
+.Meet-img-1{
+	width: 100%; 
 }
 .Meet1{
 /* Style for "bg" */
@@ -311,6 +351,9 @@ margin-top: 30px;
 .Meet-img{
 margin-top: 20px;
 }
+.Meet-img-img{
+	margin: 15px;
+}
 .Email{
 height: 500px;
 background-color: #020202;
@@ -345,14 +388,11 @@ margin-top: -30px;
 	color: #ffc000;
 }
 footer{
-
+margin-top: -15px;
 height: 80px;
 background-color: #f5f5f5;
 }
-footer img{
-	float: right;
-	margin-top: -20px;
-}
+
 footer p{
 
 color: #000000;
@@ -386,7 +426,8 @@ text-transform: uppercase;
 /* Text style for "S, ubmit" */
 letter-spacing: -0.9px;
 float: right;
-border-color: none for button;
+border-color: transparent or border:none for button;
+
 }
 .Email-Email{
 	/* Style for "Rectangle" */
@@ -414,8 +455,16 @@ font-weight: 400;
 .Email-p1{
 	margin-bottom: 65px;
 }
-
-
+.footer-img{
+	
+	height: 18px;
+	float: right;
+	
+	margin-top: -30px;
+}
+.footer-img1{
+margin-left: 35px;
+}
 
 
 
