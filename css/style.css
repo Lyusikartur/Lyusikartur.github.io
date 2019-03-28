@@ -60,6 +60,10 @@ header button{
 margin: auto;
 position: absolute;
  }
+ header button:hover{
+ 	background-color: red;
+ 	color: #ffc000;
+ }
 .button-class{
 text-align: center;
 margin-top: 22px;
@@ -96,7 +100,7 @@ font-size: 170px;
 }
 .Adverting-text2{
 	/* Style for "With a lon" */
-width: 704px;
+width: auto;
 height: 112px;
 color: #ffffff;
 font-family: 'Poppins';
@@ -121,8 +125,8 @@ margin-bottom: 100px;
 }
 .About-h1{
 /* Style for "About Us" */
-width: 262px;
-margin-left: 420px;
+
+
 height: 46px;
 color: #000000;
 font-family: 'Poppins';
@@ -141,8 +145,8 @@ font-family: Poppins;
 font-size: 18px;
 font-weight: 400;
 line-height: 34px;
-width: 959px;
-margin-left: 70px;
+
+
 
 }
 .portfolio1{
@@ -309,6 +313,7 @@ width: 370px;
 height: 500px;
 background-color: #ffffff;
 border-radius: 10px;
+margin-left: -10px;
 }
 .Meet-p2{
 	margin-top: 50px;
@@ -334,8 +339,8 @@ text-transform: uppercase;
 letter-spacing: 2.4px;
 }
 .Meet-p4{
-	width: 298px;
-height: 63px;
+	
+
 color: #aaaaaa;
 font-family: Poppins;
 font-size: 13px;
@@ -383,6 +388,7 @@ margin-top: -30px;
 .Email-h1-1{
 	color: #ffc000;
 }
+
 footer{
 margin-top: -15px;
 height: 80px;
@@ -412,7 +418,7 @@ background-color: #ffc000;
 border-top-right-radius: 30px;
 border-bottom-right-radius: 30px;
 /* Style for "Submit" */
-
+border: none;
 color: #ffffff;
 font-family: Poppins;
 font-size: 18px;
@@ -424,6 +430,10 @@ letter-spacing: -0.9px;
 float: right;
 height: 100%;
 
+}
+.Email-button:hover{
+	background-color: red;
+	color: #000
 }
 .Email-Email{
 	/* Style for "Rectangle" */
@@ -460,6 +470,287 @@ font-weight: 400;
 .footer-img1{
 margin-left: 35px;
 }
+@media (max-width: 1200px) {
+	.button-class{
+		margin-left: -80px;
+	}
+	.About-h1{
+text-align: center;
+	}
+.About-text{
+	text-align: center;
+}
+.Services-p2{
+	font-size: 19px;
+}
+.Services-p3{
+	font-style: 18px;
+}
+.Services-img1{
+	margin-bottom: 20px;
+}
+.Services-img3{
+	margin-bottom: 20px;
+}
+.Public-Relations{
+	padding-top: 10px;
+}
+.Services-img6{
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+.Meet1{
+	width: 300px;
+	height: 400px;
+}
+.Meet-p2{
+	font-size: 22px;
+	margin-top: 20px;
+}
+.Meet-p3{
+	font-size: 15px;
+	font-weight: 500;
+}
+.Meet-p4{
+	margin: 10px;
+	margin-top: 25px;
+
+}
+.Meet{
+	height: 750px;
+}
+.Email-Email{
+	width: auto;
+}
+}
+@media (max-width: 992px){
+.Adverting-h1{
+	font-size: 120px;
+}
+.Adverting-text{
+margin-top: -30px;
+}
+.Adverting{
+	height: 500px;
+}
+.button-header{
+	height: 30px;
+	margin-top: 5px;
+	width: 90px;
+	margin-left: 20px;
+}
+.About-h1{
+	margin-top: 40px;
+	margin-bottom: 29px;
+}
+.About-text{
+	margin-top: 20px;
+}
+.img-About{
+	margin-top: 85px;
+	padding-bottom: 80px;
+}
+.About{
+	height: 900px;
+}
+.portfolio1-text1{
+font-size: 20px;
+margin-top: 19px;
+}
+.portfolio1-text2{
+text-align: center;
+
+}
+.portfolio1-img{
+	margin-top: 95px;
+}
 
 
+
+
+
+.Public-Relations{
+	margin-top: -20px;
+}
+
+.Services-img1{
+	display: none;
+}
+.Icon{
+	width: 200px;
+	margin: 0;
+
+
+}
+.Services{
+	height: 550px;
+}
+.Services-p3{
+font-size: 11px;
+height: 100px;
+}
+.Services-p2{
+
+	height: auto;
+}
+.Services-img2{
+	display: none;
+}
+.Services-img3{
+	display: none;
+}
+.Services-img4{
+	display: none;
+}
+.Services-img5{
+	display: none;
+}
+.Services-img6{
+	display: none;
+}
+.Services-p1{
+margin-bottom: 20px;
+}
+
+.Services-p2{
+	text-align: center;
+}
+.Services-p3{
+	text-align: center;
+}
+.Services-h1{
+	margin-top: 40px;
+}
+.Meet1{
+	width: 220px;
+	margin-left: 5px;
+}
+.Meet-p2{
+	margin: 8px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	height: 40px;
+}
+.Meet-p2{
+	margin: 10px;
+
+}
+.Meet-p4{
+height: 100px;
+}
+.Email-p1{
+	margin-top: 25px;
+}
+
+.Email-Email{
+margin: 0;
+margin-left: -8px;
+width: 705px;
+
+}
+.Email-ru{
+text-align: center;
+}
+.Email-h1{
+	line-height: 1.1;
+	font-size: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.Email-p1{
+
+}
+@media(max-width: 768px){
+.title-adv{
+	font-size: 18px;
+	margin-top: 28px;
+	margin-left: -45px;
+}
+header a{
+	    font-size: 13px;
+	    margin-left: 10px;
+}
+header ul{
+	margin-left: 20px;
+	padding-top: 7px;
+}
+.Adverting-text{
+	font-size: 25px;
+
+}
+.Adverting-h1{
+	font-size: 90px;
+	margin-top: 30px;
+}
+.Adverting-text2{
+	font-size: 15px;
+	margin-top: -65px;
+}
+.img-About{
+	margin-top: 130px;
+}
+.portfolio1{
+	height: 600px;
+}
+.Services{
+	height: 550px;
+}
+.Services-p1{
+font-size: 15px;
+height: 30px;
+margin-top: 20px;
+}
+.Services-p2{
+	font-size: 15px;
+	margin-top: 40px;
+}
+.Services-p3{
+margin-top: -20px;
+}
+.Meet-h1{
+	font-size: 50px;
+	
+	height: 50px;	
+}
+.Meet-p1{
+	font-size: 16px;
+	padding-top: 10px;
+}
+.Meet1{
+	width: 170px;
+	margin-left: -10px;
+	height: 350px;
+
+}
+.Meet-p2{
+	font-size: 15px;
+}
+.Meet-p3{
+	font-size: 10px;
+}
+.Meet-p4{
+	font-size: 11px;
+}
+.Meet{
+	height: 650px;
+}
+.Email-p1{
+	font-size: 15px;
+	margin-top: 50px;
+}
+.Email-Email{
+	width: 510px;
+	height: 50px;
+
+}
+.Email-ru{
+	margin-top: -30px;
+}
+section input{
+	font-size: 15px;
+}
+.Email{
+	height: 350px;
+}
+}
 
