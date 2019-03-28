@@ -710,33 +710,7 @@ margin-top: 20px;
 .Services-p3{
 margin-top: -20px;
 }
-.Meet-h1{
-	font-size: 50px;
-	
-	height: 50px;	
-}
-.Meet-p1{
-	font-size: 16px;
-	padding-top: 10px;
-}
-.Meet1{
-	width: 170px;
-	margin-left: -10px;
-	height: 350px;
 
-}
-.Meet-p2{
-	font-size: 15px;
-}
-.Meet-p3{
-	font-size: 10px;
-}
-.Meet-p4{
-	font-size: 11px;
-}
-.Meet{
-	height: 650px;
-}
 .Email-p1{
 	font-size: 15px;
 	margin-top: 50px;
@@ -755,5 +729,108 @@ section input{
 .Email{
 	height: 350px;
 }
+.Meet{
+	height: auto;
+}
+.Meet1{
+	width: auto;
+	height: auto;
+	margin-bottom: 30px;
+}
+.Meet-p2{
+	height: auto;
+	width: auto;
+	font-size: 30px;
+}
+}
+@media(max-width: 575px){
+.portfolio1-img{
+	height: 50px;
+	width: 50px;
+	margin: 0;
+	margin-top: 20px;
+}
+.portfolio1-text1{
+	margin: 0;
+}
+.portfolio1-text2{
+	margin: 0;
+	margin-top: -30px;
+}
+.portfolio1{
+	height: auto;
+}
+.title-adv{
+	display: none;
+}
+header ul{
+	margin-left: -70px;
+}
+.button-header{
+	font-size: 9px;
+	height: 25px;
+	width: 70px;
+	margin-left: -15px;
+	margin-top: 10px;
+}
+header a{
+	font-size: 12px;
+}
+.About-text{
+	height: auto;
+}
+.img-About{
+	display: none;
+}
+.About{
+	height: auto;
+}
+.Services-p1{
+	height: auto;
+}
+.Services-p2{
+	margin-top: 10px;
+	margin: 0;
+	height: auto;
+}
+.Services-p3{
+	height: auto;
+	margin: 0;
+}
+.Services{
+	height: auto;
+}
+.Meet1{
+	width: auto;
+	height: auto;
+	margin: 30px;
+}
+.Meet{
+	height: auto;
+
+}
+.Meet-img{
+	margin-top: -20px;
+}
+.Email-p1{
+	font-size: 12px;
+}
+.Email-Email{
+	
+
 }
 
+.Email-ru{
+	width: auto;
+
+}
+}
+@media(max-width: 533px){
+	.Email-Email{
+	
+width: auto;
+}
+.Email-button{
+width: auto;
+}
+}
