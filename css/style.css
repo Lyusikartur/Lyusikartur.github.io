@@ -664,15 +664,15 @@ header button{
 	padding-left: 20px;
 	padding-right: 20px;
 	font-size: 12px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 section input{
-font-size: 12px;
+font-size: 10px;
 }
 .Icon{
-	margin-bottom: 50px;
+	margin-bottom: 90px;
 
 }
 .Adverting-h1{
@@ -684,15 +684,21 @@ header a{
 	font-size: 12px;
 }
 .title-adv{
-	padding-right: 30px;
+	padding-right: 0px;
 }
 .button-class{
-	margin-left: -100px;
+	margin-left: -110px;
 }
 .Adverting-text2{
 	padding-top: 40px;
 	font-size: 10px;
 	line-height: 190%;
+}
+footer p{
+	font-size: 10px;
+}
+.footer-img1{
+	margin-left: 20px;
 }
 }
 
