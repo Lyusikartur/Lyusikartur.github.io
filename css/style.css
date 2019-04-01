@@ -501,6 +501,7 @@ section input{
 	float: top;
 	display: block;
 }
+
 .porfolio-block2{
 
 }
@@ -694,9 +695,9 @@ padding-right: 80px;
 	margin-top: 50px;
 }
 .Email-button{
-font-size: 13px;
-padding-bottom: 3px;
-padding-top: 3px;
+font-size: 11px;
+padding-bottom: 2px;
+padding-top: 1px;
 padding-right: 5px;
 padding-left: 5px;
 }
@@ -707,8 +708,8 @@ padding-left: 5px;
 	font-size: 40px;
 }
 section input{
-font-size: 13px;
-margin-left: 70px;
+font-size: 11px;
+margin-left: 40px;
 padding-right: 20px;
 padding-left: 20px;
 }
