@@ -56,7 +56,7 @@ padding-right: 40px;
 }
  
  header button:hover{
- 	background-color: red;
+ 	background-color: #121212;
  	color: #ffc000;
  }
 .button-class{
@@ -382,6 +382,8 @@ margin-top: -10px;
 }
 .Email-h1-1{
 	color: #ffc000;
+	display: inline;
+	background-color: transparent;
 }
 
 footer{
@@ -691,7 +693,7 @@ header button{
 .Adverting-text{
 	margin-top: 0px;
 	padding-top: 40px;
-	
+
 }
 .Adverting-h1{
 	font-size: 100px;
