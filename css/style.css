@@ -689,7 +689,9 @@ header button{
 	margin-bottom: 10px;
 }
 .Adverting-text{
-	margin-top: -45px;
+	margin-top: 0px;
+	padding-top: 40px;
+	
 }
 .Adverting-h1{
 	font-size: 100px;
