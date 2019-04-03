@@ -689,8 +689,8 @@ padding-right: 80px;
 @media(max-width: 576px){
 	.img-About{
 	height: 200px;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
 	margin-bottom: 50px;
 	margin-top: 50px;
 }
@@ -777,6 +777,29 @@ header button{
 }
 .Meet-h1{
 	margin-bottom: 10px;
+	font-size: 36px;
+}
+.Meet-p1 br{
+	display: none;
+
+}
+.Meet1{
+	margin: 0;
+	margin-bottom: 20px;
+}
+.Services-p1 br{
+display: none;
+}
+.Services-p1{
+	font-size: 14px;
+	line-height: 22px;
+}
+.About-text{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.About{
+background: #ffffff;
 }
 }
 
